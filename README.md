@@ -1,2 +1,2 @@
 # smug-pack
-Public Minecraft Texture Pack
+Groupsourced Minecraft Texture Pack
